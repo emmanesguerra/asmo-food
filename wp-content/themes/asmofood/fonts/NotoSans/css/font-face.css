@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 19, 2023, 8:56:13 AM
+    Author     : User
+*/
+
+@font-face {
+    font-family: 'NotoSansJP-Regular';
+    src: url('../fonts/NotoSansJP-Regular.eot') format('eot'),
+         url('../fonts/NotoSansJP-Regular.ttf') format('ttf'),
+         url('../fonts/NotoSansJP-Regular.svg') format('svg'),
+         url('../fonts/NotoSansJP-Regular.woff') format('woff'),
+         url('../fonts/NotoSansJP-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    /* Add other font formats if necessary */
+    /* You can also specify font-weight and font-style if needed */
+}
+
+@font-face {
+    font-family: 'NotoSansJP-SemiBold';
+    src: url('../fonts/NotoSansJP-SemiBold.eot') format('eot'),
+         url('../fonts/NotoSansJP-SemiBold.ttf') format('ttf'),
+         url('../fonts/NotoSansJP-SemiBold.svg') format('svg'),
+         url('../fonts/NotoSansJP-SemiBold.woff') format('woff'),
+         url('../fonts/NotoSansJP-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    /* Add other font formats if necessary */
+    /* You can also specify font-weight and font-style if needed */
+}
+
+@font-face {
+    font-family: 'NotoSerifJP-Regular';
+    src: url('../fonts/NotoSerifJP-Regular.eot') format('eot'),
+         url('../fonts/NotoSerifJP-Regular.ttf') format('ttf'),
+         url('../fonts/NotoSerifJP-Regular.svg') format('svg'),
+         url('../fonts/NotoSerifJP-Regular.woff') format('woff'),
+         url('../fonts/NotoSerifJP-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    /* Add other font formats if necessary */
+    /* You can also specify font-weight and font-style if needed */
+}
+
+@font-face {
+    font-family: 'NotoSerifJP-SemiBold';
+    src: url('../fonts/NotoSerifJP-SemiBold.eot') format('eot'),
+         url('../fonts/NotoSerifJP-SemiBold.ttf') format('ttf'),
+         url('../fonts/NotoSerifJP-SemiBold.svg') format('svg'),
+         url('../fonts/NotoSerifJP-SemiBold.woff') format('woff'),
+         url('../fonts/NotoSerifJP-SemiBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    /* Add other font formats if necessary */
+    /* You can also specify font-weight and font-style if needed */
+}

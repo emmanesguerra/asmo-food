@@ -1,0 +1,103 @@
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1420px;
+    }
+}
+
+body {
+    background: #fff;
+    color: #4d4d4d;
+}
+
+.header-link
+{
+    transform: scale(0.8);
+}
+.header-hr
+{
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+
+/* Unordered list styling */
+.header-menu .menu-list {
+    list-style: none; 
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+
+/* List items styling */
+.header-menu .menu-list li {
+    flex: 1;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+/* Links styling */
+.header-menu .menu-list li a {
+    display: block;
+    text-decoration: none;
+    color: #4d4d4d;
+    padding: 12px 0 15px; 
+    font-weight: bold;
+    font-size: 14px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect */
+.header-menu .menu-list li a:hover {
+    color: #00b680;
+}
+
+footer
+{
+    color: #fcfcfc;
+    background: #4d4d4d;
+    padding: 25px 20px;
+    font-size: 14px;
+}
+footer .container
+{
+    max-width: 1600px;
+}
+footer ul
+{
+    display: block;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+}
+footer ul li
+{
+    display: block;
+    margin-top: .2rem;
+}
+footer ul li ul
+{
+    padding-left: .8rem;
+}
+footer ul li ul li
+{
+    margin-top: .6rem;
+}
+footer hr
+{
+    background: #949494;
+    height: .15rem;
+}
+.sub-banner 
+{
+    margin: 2rem 0 5rem;
+}
+.sub-banner .img-cont
+{
+    height: 164px;
+}
+
+.img-contact
+{
+    height: 100%;
+}

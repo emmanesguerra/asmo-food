@@ -1,0 +1,38 @@
+/nbproject/private/
+
+# WordPress Core
+/wp-admin/
+/wp-includes/
+
+# Configuration
+wp-config.php
+
+# Media
+/wp-content/uploads/
+
+# Caches
+/wp-content/cache/
+/wp-content/advanced-cache.php
+
+# Plugins and Themes Backups
+/wp-content/backup/
+/wp-content/debug.log
+
+# Development Tools
+node_modules/
+dist/
+vendor/
+
+# Environment Files
+.env
+
+# Ignore System Files
+.DS_Store
+Thumbs.db
+/wp-content/plugins/akismet/
+/wp-content/plugins/hello.php
+/wp-content/plugins/index.php
+/wp-content/themes/twentytwentythree/
+/wp-content/themes/twentytwentyfour/
+/wp-content/themes/twentytwentyfive/
+/wp-content/plugins/smart-slider-3/
